@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+ I don't know what to put here.
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyqerion199&theme=github_dark"
@@ -13,8 +13,6 @@
 </picture>
 
 <!--
-**Hyqerion199/Hyqerion199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
